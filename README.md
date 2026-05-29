@@ -46,3 +46,8 @@ open screenshot-tool/index.html
 <br>
 <sub>devkitz.eu | dkz.app | github.com/D-VKITZ</sub>
 </p>
+---
+
+## Docs
+
+> Rules: [KERN/RULES.md](https://github.com/D-VKITZ/KERN/blob/main/RULES.md) | Patterns: [KERN/PATTERNS.md](https://github.com/D-VKITZ/KERN/blob/main/PATTERNS.md) | Playbook: [KERN/PLAYBOOK.md](https://github.com/D-VKITZ/KERN/blob/main/PLAYBOOK.md)
